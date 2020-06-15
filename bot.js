@@ -345,6 +345,6 @@ client.on('message', msg => {
 
 });
 
-if(1 == 1){ //Auth-Token
+if(1 == 1){ //Auth-Token (not the real Token)
 client.login('NjkyMDMzODM1MzY1MzAyMzUz.XnosJA.ZJSMDlHAB35eo7vm8yAsZt5zM5s');
 }
